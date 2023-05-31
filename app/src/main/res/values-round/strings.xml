@@ -1,0 +1,3 @@
+<resources>
+    <string name="hello_world">From the Round world,\nHello, You have &lt;b>%1$s! new messages&lt;/b> </string>
+</resources>
