@@ -67,3 +67,4 @@ fun Greeting(greetingName: String) {
 fun DefaultPreview() {
     WearApp("Preview Android")
 }
+/*https://developer.android.com/guide/topics/resources/string-resource?hl=es-419#FormattingAndStyling*/
